@@ -1,5 +1,5 @@
 ---
-_entity: "github.com/AmadlaOrg/Entity$v1"
+_entity: "github.com/AmadlaOrg/Entity@latest"
 name: QAFixturesEntityMultipleTagVersion
 description: Entity Multiple Tag Version definitions.
 category: QA

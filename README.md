@@ -18,3 +18,6 @@ This is the following version after `v1.0.0-alpha.2`.
 
 ### 🏁 v2.0.1
 This is the following version after `v2.0.0`.
+
+### 🏁 v2.1.0
+This is the following version after `v2.0.1`.
